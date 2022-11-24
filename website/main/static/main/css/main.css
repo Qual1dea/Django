@@ -48,6 +48,3 @@ main .feature {
 
 main .feature h1{font-size: 50px;}
 main .feature p {max-width: 1000px; margin:20px auto}
-
-#about {
-background:url ("/main/static/img/4.jpg");
